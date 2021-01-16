@@ -8,10 +8,10 @@ print(sentence[0])
 
 #จงเขียนคำสั่งเพื่อแสดง "best" ของข้อความ "I am the best programmer"
 sentence = "I am the best programmer"
-print(sentence[9:12])
+print(sentence[9:13])
 
 #จงเขียนคำสั่งเพื่อแสดข้อความ "I am the best programmer" ที่ไม่มี space
-print(string.split(" "))
+print(string.split(" ", "")
 
 #จงเขียนคำสั่งเพื่อแสดข้อความ "I am the best programmer" ให้เป็นตัวพิมใหญ่ทั้งหมด
 print(sentence.upper())
