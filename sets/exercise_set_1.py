@@ -27,4 +27,3 @@ print(cafe_ao_udom_set)
 # 6.จงเขียนคำสั่งเพื่อเคลียค่าของ cafe_ao_udom_set ทั้งหมด
 cafe_ao_udom_set.clear()
 print(cafe_ao_udom_set)
-© 2021 GitHub, Inc.
